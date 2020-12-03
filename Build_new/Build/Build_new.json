@@ -1,0 +1,16 @@
+{
+"companyName": "bluturtleGames",
+"productName": "Real Estate Web",
+"productVersion": "0.1",
+"dataUrl": "Build_new.data.unityweb",
+"wasmCodeUrl": "Build_new.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build_new.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
